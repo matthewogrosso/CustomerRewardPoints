@@ -1,0 +1,16 @@
+# Customer Reward Points in React
+
+## How to run on Codepen.io
+
+This project depends on React. To get it to run on codepen.io put the HTML code from CustomerRewardPoints.html in the HTML portion of a Pen, then put the CSS and JS from the CustomerRewardPoints.css and CustomerRewardPoints.js files in the CSS and JS portions of the pen.
+
+### Settings for the Pen
+
+Under Settings > JS select Babel as the JavaScript preprocessor.
+
+Put the following two links under external scripts:
+
+1. https://unpkg.com/react/umd/react.development.js
+2. https://unpkg.com/react-dom/umd/react-dom.development.js
+
+View this project on codepen.io: https://codepen.io/Mattyboy/pen/OJNdPGP
